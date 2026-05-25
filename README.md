@@ -34,18 +34,7 @@ To address these limitations, this work introduces the **Cricket Excited Actions
 
 Extensive annotation and empirical evaluations using state-of-the-art action recognition architectures demonstrate the effectiveness and research value of the proposed benchmark. This work provides a valuable resource for advancing cricket action analysis and sports understanding research within the computer vision community.
 
----
 
-
-## 📁 Dataset Access
-
-The Cricket Excited Actions (CEA) dataset was developed for research in cricket action understanding and sports video analysis.
-
-If you would like to access the dataset for academic or research purposes, please contact:
-
-📧 altafh3797@gmail.com
-
----
 
 ---
 
@@ -75,6 +64,18 @@ If you find this work useful in your research, please consider citing our paper.
     year      = {2024}
 }
 ```
+
+---
+---
+
+
+## 📁 Dataset Access
+
+The Cricket Excited Actions (CEA) dataset was developed for research in cricket action understanding and sports video analysis.
+
+If you would like to access the dataset for academic or research purposes, please contact:
+
+📧 altafh3797@gmail.com
 
 ---
 
