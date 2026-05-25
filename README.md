@@ -44,16 +44,6 @@ Extensive annotation and empirical evaluations using state-of-the-art action rec
 
 ---
 
-## ✨ Key Contributions
-
-- Introduction of the Cricket Excited Actions (CEA) benchmark dataset
-- Realistic multi-person cricket action understanding scenarios
-- Fine-grained cricket excitement action recognition
-- Collaboration with professional cricket players for dataset construction
-- Comprehensive evaluation using state-of-the-art SAR models
-- Support for future research in cricket action analysis and sports video understanding
-
----
 
 ## 📁 Dataset Access
 
