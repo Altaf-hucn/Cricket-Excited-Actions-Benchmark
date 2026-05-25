@@ -47,16 +47,6 @@ If you would like to access the dataset for academic or research purposes, pleas
 
 ---
 
-## 📂 Dataset Categories
-
-The dataset contains several cricket excitement action categories, including:
-
-- Clean Bowled
-- Six
-- Four
-- Catches
-- Multi-person cricket interaction events
-
 ---
 
 ## 🚀 Applications
