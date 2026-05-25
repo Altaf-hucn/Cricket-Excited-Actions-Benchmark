@@ -17,7 +17,7 @@ https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Hussain_Medium_Sca
 ## 📄 Paper Information
 
 - **Title:** Medium Scale Benchmark for Cricket Excited Actions Understanding
-- **Conference:** CVPR Workshops (CVPRW) 2024
+- **Conference:** CVPR 2024
 - **Affiliation:** Sejong University, Republic of Korea
 - **Authors:** Altaf Hussain, Noman Khan, Muhammad Munsif, Min Je Kim, and Sung Wook Baik
 
