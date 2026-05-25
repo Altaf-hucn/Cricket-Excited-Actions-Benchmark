@@ -1,5 +1,119 @@
-### [Medium Scale Benchmark for Cricket Excited Actions Understanding](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Hussain_Medium_Scale_Benchmark_for_Cricket_Excited_Actions_Understanding_CVPRW_2024_paper.html)
-### Abstract
-The Sports Action Recognition (SAR) domain is of significant importance in research with diverse applications ranging from aiding coaches in strategic decision-making to empowering athletes and contributing to real-time commercial entertainment. Despite the existence of extensive large-scale and small-scale datasets the direct application of these datasets to specific sports domains such as cricket poses challenges. Existing datasets predominantly center around daily life actions lacking the necessary granularity for in-depth sports analyses. Current Cricket Action Analysis (CAA) datasets have limitations including their small scale modality constraints and their narrow focus on specific aspects such as cricket batting. Recognizing the need for a more comprehensive benchmark this article introduces the Cricket Excited Actions (CEA) dataset. Developed in collaboration with professional cricket players the CEA dataset encompasses challenging multi-person actions within realistic cricket scenarios. The selected activity classes such as Clean Bowled Six Four and Catches adhere to official standards and represent pivotal moments in cricket matches. Through precise annotation and empirical studies utilizing state-of-the-art action recognition model architectures this study provides a valuable resource for further research and makes significant contributions by offering support essential to advancing CAA within the cricket sports community.
+# Medium Scale Benchmark for Cricket Excited Actions Understanding
 
-## The code and data will be available soon.
+Official repository for the paper:
+
+**Medium Scale Benchmark for Cricket Excited Actions Understanding**
+
+Presented at **CVPR Workshops (CVPRW) 2024**
+
+---
+
+## 🔗 Paper Link
+
+https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Hussain_Medium_Scale_Benchmark_for_Cricket_Excited_Actions_Understanding_CVPRW_2024_paper.html
+
+---
+
+## 📄 Paper Information
+
+- **Title:** Medium Scale Benchmark for Cricket Excited Actions Understanding
+- **Conference:** CVPR Workshops (CVPRW) 2024
+- **Affiliation:** Sejong University, Republic of Korea
+- **Authors:** Altaf Hussain, Noman Khan, Muhammad Munsif, Min Je Kim, and Sung Wook Baik
+
+---
+
+## 🧠 Abstract
+
+Sports Action Recognition (SAR) is an important research domain with applications ranging from assisting coaches in strategic decision-making to enhancing athlete performance analysis and enabling real-time sports entertainment systems. Although several large-scale and small-scale action recognition datasets exist, their direct application to sports domains such as cricket remains challenging.
+
+Most existing action recognition datasets mainly focus on daily-life activities and lack the fine-grained action categories required for detailed sports understanding. Existing Cricket Action Analysis (CAA) datasets also suffer from several limitations, including small dataset scale, modality constraints, and narrow focus on specific cricket activities such as batting.
+
+To address these limitations, this work introduces the **Cricket Excited Actions (CEA)** dataset, a medium-scale benchmark developed in collaboration with professional cricket players. The dataset contains challenging multi-person actions captured in realistic cricket match scenarios.
+
+The selected activity classes, including:
+
+- Clean Bowled
+- Six
+- Four
+- Catches
+
+represent important and exciting moments in professional cricket matches while following official cricket standards.
+
+Extensive annotation and empirical evaluations using state-of-the-art action recognition architectures demonstrate the effectiveness and research value of the proposed benchmark. This work provides a valuable resource for advancing cricket action analysis and sports understanding research within the computer vision community.
+
+---
+
+## ✨ Key Contributions
+
+- Introduction of the Cricket Excited Actions (CEA) benchmark dataset
+- Realistic multi-person cricket action understanding scenarios
+- Fine-grained cricket excitement action recognition
+- Collaboration with professional cricket players for dataset construction
+- Comprehensive evaluation using state-of-the-art SAR models
+- Support for future research in cricket action analysis and sports video understanding
+
+---
+
+## 📁 Dataset Access
+
+The Cricket Excited Actions (CEA) dataset was developed for research in cricket action understanding and sports video analysis.
+
+If you would like to access the dataset for academic or research purposes, please contact:
+
+📧 altafh3797@gmail.com
+
+---
+
+## 📂 Dataset Categories
+
+The dataset contains several cricket excitement action categories, including:
+
+- Clean Bowled
+- Six
+- Four
+- Catches
+- Multi-person cricket interaction events
+
+---
+
+## 🚀 Applications
+
+The proposed benchmark can support research and development in:
+
+- Sports Action Recognition (SAR)
+- Cricket Video Understanding
+- Human Activity Recognition
+- Video Event Detection
+- Multi-Person Action Analysis
+- Intelligent Sports Analytics
+- Real-Time Sports Broadcasting Systems
+
+---
+
+## 📚 Citation
+
+If you find this work useful in your research, please consider citing our paper.
+
+```bibtex
+@InProceedings{Hussain_2024_CVPR,
+    author    = {Hussain, Altaf and Khan, Noman and Munsif, Muhammad and Kim, Min Je and Baik, Sung Wook},
+    title     = {Medium Scale Benchmark for Cricket Excited Actions Understanding},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    year      = {2024}
+}
+```
+
+---
+
+## 📬 Contact
+
+If you have any questions, suggestions, or research-related inquiries, please feel free to contact:
+
+📧 altaf3797@gmail.com
+
+---
+
+## 📜 License
+
+This project is intended for academic and research purposes only.
