@@ -31,14 +31,6 @@ Most existing action recognition datasets mainly focus on daily-life activities 
 
 To address these limitations, this work introduces the **Cricket Excited Actions (CEA)** dataset, a medium-scale benchmark developed in collaboration with professional cricket players. The dataset contains challenging multi-person actions captured in realistic cricket match scenarios.
 
-The selected activity classes, including:
-
-- Clean Bowled
-- Six
-- Four
-- Catches
-
-represent important and exciting moments in professional cricket matches while following official cricket standards.
 
 Extensive annotation and empirical evaluations using state-of-the-art action recognition architectures demonstrate the effectiveness and research value of the proposed benchmark. This work provides a valuable resource for advancing cricket action analysis and sports understanding research within the computer vision community.
 
